@@ -1,0 +1,5 @@
+1. No name appears on left when you add a new employee
+2. The Save button is active when invalid data is entered
+3. Name gets corrupted (has lots of dashes) from various actions; such as clicking on an employee and then another; or saving an employee
+4. Save button is named "Sieve" not "Save"
+5. Name and title fields give error for valid character lengths
